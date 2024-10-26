@@ -1,0 +1,5 @@
+C:\Users\mcedu\OneDrive\Escritorio\Rebeca Libreria\LibreriaAppRebe.exe
+C:\Users\mcedu\OneDrive\Escritorio\Rebeca Libreria\LibreriaAppRebe.dll
+C:\Users\mcedu\OneDrive\Escritorio\Rebeca Libreria\LibreriaAppRebe.deps.json
+C:\Users\mcedu\OneDrive\Escritorio\Rebeca Libreria\LibreriaAppRebe.runtimeconfig.json
+C:\Users\mcedu\OneDrive\Escritorio\Rebeca Libreria\LibreriaAppRebe.pdb

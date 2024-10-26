@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LibreriaAppRebe", "LibreriaAppRebe\LibreriaAppRebe.vbproj", "{9BA0C17A-7BAE-4FF1-AC79-7C88B7060259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BA0C17A-7BAE-4FF1-AC79-7C88B7060259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA0C17A-7BAE-4FF1-AC79-7C88B7060259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA0C17A-7BAE-4FF1-AC79-7C88B7060259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA0C17A-7BAE-4FF1-AC79-7C88B7060259}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29805486-E3B8-47DD-9BE1-6F50D12036B0}
+	EndGlobalSection
+EndGlobal
