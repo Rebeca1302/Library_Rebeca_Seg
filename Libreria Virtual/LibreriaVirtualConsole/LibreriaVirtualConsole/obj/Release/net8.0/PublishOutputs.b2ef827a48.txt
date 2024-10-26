@@ -1,0 +1,5 @@
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual\LibreriaVirtualConsole.exe
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual\LibreriaVirtualConsole.dll
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual\LibreriaVirtualConsole.deps.json
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual\LibreriaVirtualConsole.runtimeconfig.json
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual\LibreriaVirtualConsole.pdb

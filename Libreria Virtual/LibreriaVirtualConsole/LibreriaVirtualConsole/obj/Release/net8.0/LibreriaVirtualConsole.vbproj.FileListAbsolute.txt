@@ -1,0 +1,14 @@
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual\LibreriaVirtualConsole\LibreriaVirtualConsole\bin\Release\net8.0\LibreriaVirtualConsole.exe
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual\LibreriaVirtualConsole\LibreriaVirtualConsole\bin\Release\net8.0\LibreriaVirtualConsole.deps.json
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual\LibreriaVirtualConsole\LibreriaVirtualConsole\bin\Release\net8.0\LibreriaVirtualConsole.runtimeconfig.json
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual\LibreriaVirtualConsole\LibreriaVirtualConsole\bin\Release\net8.0\LibreriaVirtualConsole.dll
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual\LibreriaVirtualConsole\LibreriaVirtualConsole\bin\Release\net8.0\LibreriaVirtualConsole.pdb
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual\LibreriaVirtualConsole\LibreriaVirtualConsole\obj\Release\net8.0\LibreriaVirtualConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual\LibreriaVirtualConsole\LibreriaVirtualConsole\obj\Release\net8.0\LibreriaVirtualConsole.AssemblyInfoInputs.cache
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual\LibreriaVirtualConsole\LibreriaVirtualConsole\obj\Release\net8.0\LibreriaVirtualConsole.AssemblyInfo.vb
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual\LibreriaVirtualConsole\LibreriaVirtualConsole\obj\Release\net8.0\LibreriaVirtualConsole.vbproj.CoreCompileInputs.cache
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual\LibreriaVirtualConsole\LibreriaVirtualConsole\obj\Release\net8.0\LibreriaVirtualConsole.dll
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual\LibreriaVirtualConsole\LibreriaVirtualConsole\obj\Release\net8.0\refint\LibreriaVirtualConsole.dll
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual\LibreriaVirtualConsole\LibreriaVirtualConsole\obj\Release\net8.0\LibreriaVirtualConsole.pdb
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual\LibreriaVirtualConsole\LibreriaVirtualConsole\obj\Release\net8.0\LibreriaVirtualConsole.genruntimeconfig.cache
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual\LibreriaVirtualConsole\LibreriaVirtualConsole\obj\Release\net8.0\ref\LibreriaVirtualConsole.dll
